@@ -1,0 +1,1 @@
+- Read each project's README and preserve its core differentiator in profile descriptions.

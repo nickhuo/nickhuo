@@ -4,6 +4,7 @@ Hi, I'm Nick Huo. I build the ecosystem around what people actually want: findin
 
 ## Building
 
+- 📓 [inknotes](https://github.com/nickhuo/inknotes): lets your AI agent edit Apple Notes natively: check off to-dos, tag notes, and link notes together.
 - 🚲 [amplify](https://github.com/nickhuo/amplify): meta-tools that help human judge better.
 - 📄 [resumectl](https://github.com/nickhuo/resumectl): gives your agent a resume mode. It writes a tailored one-page LaTeX resume from a job description and revises it until it passes fit, length, and ATS checks.
 - 🎬 [flywheel](https://github.com/nickhuo/creative-flywheel): generates ad video variants, tests them, and uses the results to guide the next iteration.
