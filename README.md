@@ -15,7 +15,6 @@ Hi, I'm Nick Huo. I build the ecosystem around what people actually want: findin
 - 📰 [topic-page-generator](https://github.com/nickhuo/topic-page-generator): turns one sentence into a publishable topic page, with an editor in the loop.
 - 🧭 [concensus](https://github.com/nickhuo/concensus): an AI gateway CLI that routes each query to a cheaper or faster model based on its intent.
 - 🌾 [farmcus](https://github.com/nickhuo/farmcus): a focus app that watches you so you keep working 👀
-- 📝 [notes-manager](https://github.com/nickhuo/notes-manager): an Apple Notes manager built for AI agents.
 
 ## Thoughts
 
