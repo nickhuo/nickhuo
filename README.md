@@ -34,6 +34,7 @@ Hi, I'm Nick Huo. I build the ecosystem around what people actually want: findin
 - Every method has a reason. When something works or fails, I keep asking why until I find the cause, so I can do it again.
 - Look past the feeling to the cause. Whatever stirs an emotion is worth tracing back to what produced it.
 - We can only keep what we understand. Anything gained beyond that eventually leaves.
+- Everything is a tradeoff on a spectrum. Embrace uncertainty.
 - Ask whether it compounds before taking something on
 
 $$
